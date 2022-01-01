@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.properties": "spring-boot-properties",
+    "*.js": "javascript",
+    "iostream": "cpp",
+    "ostream": "cpp"
+  }
+}
